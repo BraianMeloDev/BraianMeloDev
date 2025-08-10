@@ -1,4 +1,4 @@
-# 🚀 Minha Jornada de Aprendizado em Java - </> java-learning-journey </>
+# 🚀 Minha Jornada de Aprendizado em Java
 
 Bem-vindo ao meu repositório de estudos! Aqui documento meu progresso no aprendizado da linguagem Java.
 Repositório dedicado ao meu aprendizado em Java - projetos, exercícios e anotações do meu progresso como desenvolvedor.
