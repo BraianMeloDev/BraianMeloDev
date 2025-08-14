@@ -26,7 +26,7 @@ Repositório dedicado ao meu aprendizado em Java - projetos, exercícios e anota
 - [x] Enumerações
 - [x] Composição
 - [x] Encapsulamento
-- [ ] Tratamento de exceções
+- [x] Tratamento de exceções
 - [ ] Interfaces
 - [ ] Generics, Set, Map
 - [ ] Programação funcional e expressões lambda
